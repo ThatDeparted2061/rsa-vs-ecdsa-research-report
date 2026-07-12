@@ -1,8 +1,13 @@
-# RSA vs ECDSA Research Report (Prompt + Resources)
+# RSA vs ECDSA Research Resources
 
-This repo contains:
-- `PROMPT.md` — a structured prompt to generate the research report
-- `resources/benchmark-context.md` — in-depth context for the benchmark
-- `resources/plots/` — output graphs from the Blockchain-signature-benchmark project
+This repository contains materials for independently researching RSA vs ECDSA benchmark outcomes.
 
-Use the prompt with any AI writing tool and include the plots as evidence.
+## Repository Contents
+- `resources/benchmark-context.md` — benchmark scope and context
+- `resources/plots/` — benchmark output plots
+
+## Suggested Workflow
+1. Read `resources/benchmark-context.md`.
+2. Review relevant figures in `resources/plots/`.
+3. Build your own conclusions directly from the benchmark evidence.
+4. Cite plot filenames when referencing specific results.
