@@ -1,6 +1,6 @@
 # Blockchain Signature Benchmark — Context & Methodology
 
-This repository’s prompt is backed by results from the **Blockchain-signature-benchmark** project. The benchmark is designed to compare **RSA (RSASSA-PSS)** and **ECDSA** at equivalent security levels used in modern systems.
+This repository’s report is backed by results from the **Blockchain-signature-benchmark** project. The benchmark is designed to compare **RSA (RSASSA-PSS)** and **ECDSA** at equivalent security levels used in modern systems.
 
 ## What the Benchmark Measures
 The script `benchmark_complete.py` runs a full suite and reports:
